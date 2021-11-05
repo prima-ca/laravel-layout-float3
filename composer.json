@@ -21,7 +21,7 @@
     "license": "MIT",
     "require": {
         "php": ">=7.1.0",
-        "lodash-php/lodash-php": "^0.0.7",
+        "lodash-php/lodash-php": "^0.0.7"
     },
     "autoload": {
         "psr-4": {
