@@ -1,0 +1,36 @@
+{
+    "name": "prima-ca/laravel-layout-float3",
+    "type": "library",
+    "description": "Wrap 64robot fields 3 wide",
+    "homepage": "https://github.com/prima-ca/laravel-layout-float3",
+    "authors": [
+        {
+            "name": "Christopher Anderson",
+            "email": "ca@laravel-layout-float3.spamtrak.org",
+            "role": "Developer"
+        }
+    ],
+    "keywords": [
+        "laravel",
+        "eloquent",
+        "naming",
+        "names",
+        "convention",
+        "custom"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.1.0",
+        "lodash-php/lodash-php": "^0.0.7",
+    },
+    "autoload": {
+        "psr-4": {
+            "Cyrus\\Nova\\Layout\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": []
+        }
+    }
+}
